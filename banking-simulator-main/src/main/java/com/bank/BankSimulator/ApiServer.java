@@ -5,7 +5,6 @@ import java.math.BigDecimal;
 
 import com.bank.BankSimulato.repository.AccountRepository;
 import com.bank.BankSimulato.repository.TransactionRepository;
-import com.bank.BankSimulator.ApiServer.SuccessResponse;
 import com.bank.BankSimulator.model.Account;
 import com.bank.BankSimulator.service.AccountService;
 import com.bank.BankSimulator.service.AlertService;

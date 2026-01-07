@@ -1,7 +1,8 @@
 package com.bank.BankSimulator.service;
 import java.math.BigDecimal;
-import com.bank.BankSimulator.util.EmailUtil;
+
 import com.bank.BankSimulator.model.Account;
+import com.bank.BankSimulator.util.EmailUtil;
 
 public class AlertService {
 	private final BigDecimal threshold;
@@ -16,7 +17,7 @@ public class AlertService {
 			
 			String subject = "Low Balance Alert: "+account.getAccountNumber();
 			String message = "Dear : "+account.getHolderName()+" ,\n\nYour account balance is Low: "+account.getBalance()+
-					" \nPlease maintain minimum balance.";
+					" \nPlease maintain minimum balance. \n\n\nRegards,\nSBI BANK \n\nNote: This is an auto-generated email, please do not reply.";
 			EmailUtil.sendEmail(account.getEmail(),subject,message);
 		}
 	}

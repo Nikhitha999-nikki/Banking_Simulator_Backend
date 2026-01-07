@@ -23,15 +23,7 @@ public class AlertTest {
 		
 		TransactionService trxService = new TransactionService(accountService,trxRepo,alertService);
 		
-		/*try {
-			Account account = accountService.createAccount("chinni", "chinnikrishnamekala1@gmail.com", new BigDecimal("500"));
-			trxService.deposite(account.getAccountNumber(),new BigDecimal("2000"));
-			System.out.println("Amount is deposited Successfully..");
-			System.out.println("Total Balance : "+account.getBalance());
-		} catch (InvalidAmountException | AccountNotFoundException e) {
-			 
-			e.printStackTrace();
-		}*/
+		
 		
 		try {
 			Account account = accountService.createAccount("Nikhitha", "nikhithacm027.21057@gmail.com", new BigDecimal("5000"));
