@@ -40,17 +40,27 @@ Tools & IDEs: IntelliJ IDEA / Eclipse / VS Code
 
 Banking_Simulator_Backend/
 │── src/
+
 │   ├── model/        # Account and transaction models
+
 │   ├── service/      # Business logic
+
 │   ├── repository/   # Data handling layer
+
 │   ├── exceptions/   # Custom exceptions
+
 │   └── main/         # Application entry point
+
 │── pom.xml           # Maven dependencies
+
 │── images
+
 |── records
+
 │── README.md
 
 🚀 Getting Started
+
 Prerequisites
 
 Java 8 or above
@@ -60,9 +70,13 @@ Maven
 Git
 
 # Installation
+
 git clone https://github.com/Nikhitha999-nikki/Banking_Simulator_Backend.git
+
 cd Banking_Simulator_Backend
+
 mvn clean install
 
 📌 Future Enhancements
+
 🔐 User authentication and authorization
