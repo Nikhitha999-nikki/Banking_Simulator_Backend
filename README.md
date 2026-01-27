@@ -5,4 +5,4 @@ It demonstrates backend development concepts including Object-Oriented Programmi
 
 This project is designed to model real-world banking workflows in a simplified and scalable way.
 # Account Creation :
-![create](images/create_bank_activity.png)
+!(images/create_bank_activity.jpeg)
