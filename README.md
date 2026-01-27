@@ -26,6 +26,7 @@ This project is designed to model real-world banking workflows in a simplified a
 <h3>Email Alert</h3>
 <img src="images/email_alert_bank_activity.jpeg" width="400">
 
+
 🛠️ Tech Stack
 
 Programming Language: Java
@@ -35,6 +36,7 @@ Build Tool: Maven
 Architecture: Layered / OOP-based design
 
 Tools & IDEs: IntelliJ IDEA / Eclipse / VS Code
+
 
 📂 Project Structure
 
@@ -59,6 +61,8 @@ Banking_Simulator_Backend/
 
 │── README.md
 
+
+
 🚀 Getting Started
 
 Prerequisites
@@ -69,6 +73,7 @@ Maven
 
 Git
 
+
 # Installation
 
 git clone https://github.com/Nikhitha999-nikki/Banking_Simulator_Backend.git
@@ -76,6 +81,7 @@ git clone https://github.com/Nikhitha999-nikki/Banking_Simulator_Backend.git
 cd Banking_Simulator_Backend
 
 mvn clean install
+
 
 📌 Future Enhancements
 
