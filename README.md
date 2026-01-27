@@ -27,7 +27,7 @@ This project is designed to model real-world banking workflows in a simplified a
 <img src="images/email_alert_bank_activity.jpeg" width="400">
 
 
-🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 Programming Language: Java
 
@@ -38,7 +38,7 @@ Architecture: Layered / OOP-based design
 Tools & IDEs: IntelliJ IDEA / Eclipse / VS Code
 
 
-📂 Project Structure
+# 📂 Project Structure
 
 Banking_Simulator_Backend/
 │── src/
@@ -63,7 +63,7 @@ Banking_Simulator_Backend/
 
 
 
-🚀 Getting Started
+# 🚀 Getting Started
 
 Prerequisites
 
