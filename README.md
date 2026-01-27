@@ -4,11 +4,24 @@ The Banking Simulator Backend is a Java-based backend application that simulates
 It demonstrates backend development concepts including Object-Oriented Programming (OOP), exception handling, and layered architecture.
 
 This project is designed to model real-world banking workflows in a simplified and scalable way.
-# Account Creation :
-![Create Account](images/create_bank_activity.jpeg)
-![Deposit](images/deposit_bank_activity.jpeg)
-![Transfer](images/transfer_bank_activity.jpeg)
-![withdraw](images/create_bank_activity.jpeg)
-![view account](images/view-account_bank_activity.jpeg)
-![All account](images/all-accounts_bank_activity.jpeg)
-![EmailAlert](images/email_alert_bank_activity.jpeg)
+<h3>Create Account</h3>
+<img src="images/create_bank_activity.jpeg" width="400">
+
+<h3>Deposit</h3>
+<img src="images/deposit_bank_activity.jpeg" width="400">
+
+<h3>Transfer</h3>
+<img src="images/transfer_bank_activity.jpeg" width="400">
+
+<h3>Withdraw</h3>
+<img src="images/create_bank_activity.jpeg" width="400">
+
+<h3>View Account</h3>
+<img src="images/view-account_bank_activity.jpeg" width="400">
+
+<h3>All Accounts</h3>
+<img src="images/all-accounts_bank_activity.jpeg" width="400">
+
+<h3>Email Alert</h3>
+<img src="images/email_alert_bank_activity.jpeg" width="400">
+
