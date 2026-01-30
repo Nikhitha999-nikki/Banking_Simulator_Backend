@@ -18,6 +18,8 @@ Login: Existing users can securely log in to access banking services.
 
 <img src="images/login.png" width="400">
 
+# Operations
+
 <h3>Deposit</h3>
 <img src="images/deosite.png" width="400">
 
@@ -93,6 +95,6 @@ cd Banking_Simulator_Backend
 mvn clean install
 
 
-📌 Future Enhancements
+# 📌 Future Enhancements
 
 🔐 Encryption
