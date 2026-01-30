@@ -8,7 +8,7 @@ public class DBConnection {
 	
 	private static final String url = "jdbc:mysql://localhost:3306/banking_simulator";
 	private static final String username = "root";
-	private static final String password = "Nikhitha 09";
+	private static final String password = "Nikhitha09";
 
 	
 	
