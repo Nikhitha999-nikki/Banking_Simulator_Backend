@@ -19,7 +19,7 @@ Login: Existing users can securely log in to access banking services.
 <img src="images/login.png" width="400">
 
 <h3>Deposit</h3>
-<img src="images/deosit.png" width="400">
+<img src="images/deosite.png" width="400">
 
 <h3>Transfer</h3>
 <img src="images/transfer.png" width="400">
@@ -34,7 +34,7 @@ Login: Existing users can securely log in to access banking services.
 <img src="images/view_all.png" width="400">
 
 <h3>Email Alert</h3>
-<img src="images/email_alert_bank_activity.jpeg" width="200" height="200">
+<img src="images/email_alert_bank_activity.jpeg" width="200" >
 
 
 # 🛠️ Tech Stack
@@ -95,4 +95,4 @@ mvn clean install
 
 📌 Future Enhancements
 
-🔐 User authentication and authorization
+🔐 Encryption
