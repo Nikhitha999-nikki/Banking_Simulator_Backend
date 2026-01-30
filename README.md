@@ -21,7 +21,7 @@ Login: Existing users can securely log in to access banking services.
 # Operations
 
 <h3>create</h3>
-<img src="images/create.png" width="400">
+<img src="images/create_account.png" width="400">
 
 <h3>Deposit</h3>
 <img src="images/deosite.png" width="400">
