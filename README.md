@@ -20,14 +20,17 @@ Login: Existing users can securely log in to access banking services.
 
 # Operations
 
+<h3>create</h3>
+<img src="images/create.png" width="400">
+
 <h3>Deposit</h3>
 <img src="images/deosite.png" width="400">
 
-<h3>Transfer</h3>
-<img src="images/transfer.png" width="400">
-
 <h3>Withdraw</h3>
 <img src="images/withdraw.png" width="400">
+
+<h3>Transfer</h3>
+<img src="images/transfer.png" width="400">
 
 <h3>View Account</h3>
 <img src="images/view_account.png" width="400">
